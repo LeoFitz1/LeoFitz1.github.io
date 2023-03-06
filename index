@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>我的网站</title>
+</head>
+<body>
+  <h1>欢迎来到我的网站</h1>
+  <p>这是一个简单的网页，用于演示 index.html 文件的结构。</p>
+  <p>你可以在这里添加更多的内容，例如图片，链接，列表等。</p>
+</body>
+</html>
